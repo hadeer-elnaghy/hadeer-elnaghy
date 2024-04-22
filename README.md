@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm hadeer elsaid elnaghy
- ## 😄 Passionate and Adaptable Programming Engineer
+ ## 😄 Passionate and Learnable Programming Engineer
 
 ## ✨ Technical skills
 
