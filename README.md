@@ -1,4 +1,4 @@
-### Hi there 👋 I'm hadeer elsaid elnsaghy
+### Hi there 👋 I'm hadeer elsaid elnaghy
 
 ## ✨ Technical skills
 
