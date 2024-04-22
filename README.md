@@ -2,19 +2,19 @@
 
 ## ✨ Technical skills
 
-• Laravel
-• Flutter
-• PHP
-• HTML
-• CSS
-• JavaScript
-• jQuery
-• Java
-• MySQL
-• REST APIs
-• Firebase
-• Vue.js
-• Livewire
+• Laravel<br />
+• Flutter<br />
+• PHP<br />
+• HTML<br />
+• CSS<br />
+• JavaScript<br />
+• jQuery<br />
+• Java<br />
+• MySQL<br />
+• REST APIs<br />
+• Firebase<br />
+• Vue.js<br />
+• Livewire<br />
 
 <!--
 **hadeer-elnaghy/hadeer-elnaghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
