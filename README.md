@@ -5,6 +5,9 @@
 
 • Laravel<br />
 • Flutter<br />
+• Next.js<br />
+• Node.js<br />
+• Express<br />
 • PHP<br />
 • HTML<br />
 • CSS<br />
