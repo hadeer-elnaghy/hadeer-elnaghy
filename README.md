@@ -1,36 +1,58 @@
-### Hi there 👋 I'm hadeer elsaid elnaghy
- ## 😄 Passionate and Learnable Programming Engineer
+# Hadeer Elnaghy 🚀
+### Full Stack Developer | Electronics & Communications Engineer
 
-## ✨ Technical skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-• Laravel<br />
-• Flutter<br />
-• Next.js<br />
-• Node.js<br />
-• Express<br />
-• PHP<br />
-• HTML<br />
-• CSS<br />
-• JavaScript<br />
-• jQuery<br />
-• Java<br />
-• MySQL<br />
-• REST APIs<br />
-• Firebase<br />
-• Vue.js<br />
-• Livewire<br />
+---
 
-<!--
-**hadeer-elnaghy/hadeer-elnaghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Professional Overview
+I am a highly skilled **Full Stack Developer** specializing in creating dynamic web applications, scalable APIs, and mobile solutions. With a background in **Electronics and Communications Engineering** (ranked 1st in department!), I am dedicated to delivering innovative, user-centric solutions that optimize business growth and user experiences.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Arsenal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Laravel, PHP, Node.js, Express, RESTful APIs, GraphQL |
+| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), jQuery, HTML5, CSS3, Livewire, Ajax |
+| **Mobile** | Flutter, Android (Java/Kotlin), iOS |
+| **Databases** | MySQL, MongoDB, Firebase |
+| **Tools & CMS** | WordPress, Git/GitHub, WooCommerce |
+
+## 💼 Professional Experience
+
+### **Full Stack Developer** | Xappee (UK) | _2024 – Present_
+- 🏗️ Developed a **Multi-Tenant WooCommerce System** with a centralized dashboard using **Next.js, Node.js, and MongoDB**.
+- 💳 Built comprehensive **Invoicing and Product Management Systems**.
+- 🔍 Created **E-Commerce Price Comparison Tools** for Amazon and eBay.
+- 🌐 Developed tailored websites for various industries, including medical/dental practices.
+
+### **Full Stack Developer** | Logic Systems | _2021 – 2024_
+- 📊 Launched multiple **ERP and CRM systems** using Laravel and MySQL.
+- 📱 Spearheaded **Cross-Platform Mobile Applications** for marketplaces and food delivery.
+- 🎓 Developed **Advanced Examination & Data Systems** for online exams and patient prescriptions.
+
+## 🎓 Education & Certifications
+- **B.Sc. in Electronics and Communications Engineering** | Port Said University 
+  - *Grade: Very Good with Honor (Ranked 1st in Department)* | GPA: 3.35/4
+- **Certifications:** Flutter Development, Android Basics, Laravel Framework, Next.js, Node.js.
+
+## 🚀 Key Projects
+- **Dental Pain Pathways:** An interactive awareness campaign for dental health (MTI University).
+- **Multi-Tenant Storefronts:** Scalable e-commerce architecture.
+- **Custom CRM Solutions:** Streamlining business operations through automation.
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="mailto:hadeerelnaghy2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/hadeer-elnaghy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/hadeer-elnaghy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+<p align="center"><i>"Building the future, one line of code at a time."</i></p>
