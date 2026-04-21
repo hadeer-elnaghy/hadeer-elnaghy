@@ -26,7 +26,12 @@ I am a highly skilled **Full Stack Developer** specializing in creating dynamic 
 
 ## 💼 Professional Experience
 
-### **Full Stack Developer** | Xappee (UK) | _2024 – Present_
+### **Full Stack Developer** | OnKalendar | _Sep 2025 – Present_
+- 💇‍♂️ Building **OnKalendar**, a comprehensive hair salon and spa management ecosystem focused on appointment scheduling and business growth.
+- 📅 Developing a robust **Booking System & POS** (Point of Sale) with integrated customer management.
+- 🌐 Creating high-performance customer-facing websites for seamless online booking.
+
+### **Full Stack Developer** | Xappee (UK) | _2024 – Sep 2025_
 - 🏗️ Developed a **Multi-Tenant WooCommerce System** with a centralized dashboard using **Next.js, Node.js, and MongoDB**.
 - 💳 Built comprehensive **Invoicing and Product Management Systems**.
 - 🔍 Created **E-Commerce Price Comparison Tools** for Amazon and eBay.
@@ -43,9 +48,9 @@ I am a highly skilled **Full Stack Developer** specializing in creating dynamic 
 - **Certifications:** Flutter Development, Android Basics, Laravel Framework, Next.js, Node.js.
 
 ## 🚀 Key Projects
+- **OnKalendar:** A complete salon/spa management suite with a POS and automated booking system.
 - **Dental Pain Pathways:** An interactive awareness campaign for dental health (MTI University).
 - **Multi-Tenant Storefronts:** Scalable e-commerce architecture.
-- **Custom CRM Solutions:** Streamlining business operations through automation.
 
 ## 📫 Connect with Me
 <p align="left">
