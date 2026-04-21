@@ -19,10 +19,10 @@ I am a highly skilled **Full Stack Developer** specializing in creating dynamic 
 | Category | Technologies |
 | :--- | :--- |
 | **Backend** | Laravel, PHP, Node.js, Express, RESTful APIs, GraphQL |
-| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), jQuery, HTML5, CSS3, Livewire, Ajax |
-| **Mobile** | Flutter, Android (Java/Kotlin), iOS |
+| **Frontend** | React, Next.js, TypeScript, JavaScript , jQuery, HTML5, CSS3, Livewire, Ajax |
+| **Mobile** | Flutter, Android (Java), iOS |
 | **Databases** | MySQL, MongoDB, Firebase |
-| **Tools & CMS** | WordPress, Git/GitHub, WooCommerce |
+| **Tools & CMS** | Git/GitHub |
 
 ## 💼 Professional Experience
 
