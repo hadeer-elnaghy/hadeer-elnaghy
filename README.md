@@ -1,5 +1,5 @@
 # Hadeer Elnaghy 🚀
-### Full Stack Developer | Electronics & Communications Engineer
+### Senior Backend Developer | Full Stack & Mobile Expert
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -12,16 +12,16 @@
 ---
 
 ## 🌟 Professional Overview
-I am a highly skilled **Full Stack Developer** specializing in creating dynamic web applications, scalable APIs, and mobile solutions. With a background in **Electronics and Communications Engineering** (ranked 1st in department!), I am dedicated to delivering innovative, user-centric solutions that optimize business growth and user experiences.
+I am a specialized **Backend Developer** with extensive experience in architecting robust, scalable server-side systems and APIs. While my core strength lies in backend engineering, I am a well-rounded developer with significant expertise in building dynamic **Frontend** interfaces and high-performance **Mobile** applications. I focus on delivering secure, optimized, and maintainable software solutions that drive business logic and user engagement.
 
 ## 🛠️ Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Laravel, PHP, Node.js, Express, RESTful APIs, GraphQL |
-| **Frontend** | React, Next.js, TypeScript, JavaScript , jQuery, HTML5, CSS3, Livewire, Ajax |
-| **Mobile** | Flutter, Android (Java), iOS |
+| **Backend (Core)** | Laravel, PHP, Node.js, Express, RESTful APIs, GraphQL |
 | **Databases** | MySQL, MongoDB, Firebase |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, jQuery, HTML5, CSS3, Livewire, Ajax |
+| **Mobile** | Flutter, Android (Java), iOS |
 | **Tools & CMS** | Git/GitHub |
 
 ## 💼 Professional Experience
