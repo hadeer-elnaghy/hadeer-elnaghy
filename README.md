@@ -48,9 +48,10 @@ I am a specialized **Backend Developer** with extensive experience in architecti
 - **Certifications:** Flutter Development, Android Basics, Laravel Framework, Next.js, Node.js.
 
 ## 🚀 Key Projects
-- **OnKalendar:** A complete salon/spa management suite with a POS and automated booking system.
-- **Dental Pain Pathways:** An interactive awareness campaign for dental health (MTI University).
-- **Multi-Tenant Storefronts:** Scalable e-commerce architecture.
+- **OnKalendar:** A comprehensive salon and spa management ecosystem featuring a robust booking system, POS, and customer-facing websites.
+- **Multi-Tenant E-Commerce Architecture:** A centralized dashboard managing multiple WooCommerce sites, built with Next.js, Node.js, and MongoDB.
+- **Enterprise ERP & CRM Systems:** Scalable business management solutions developed using Laravel to streamline operations and enhance client interactions.
+- **Cross-Platform Mobile Solutions:** Feature-rich mobile applications for marketplaces and food delivery services, integrated with real-time inventory and order sync.
 
 ## 📫 Connect with Me
 <p align="left">
