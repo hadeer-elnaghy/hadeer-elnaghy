@@ -25,9 +25,9 @@ I am a **Full Stack Developer** specializing in architecting scalable multi-tena
 | **Backend** | Laravel, PHP, Node.js, Express.js, REST APIs, GraphQL, Livewire |
 | **Frontend** | Next.js, React, TypeScript, JavaScript, HTML5, CSS3, jQuery, AJAX |
 | **Databases & Cache** | MySQL, MongoDB, Redis |
-| **Mobile** | Flutter, Android |
 | **DevOps & Cloud** | AWS, Docker, Kubernetes, Terraform, Ansible, Linux, Nginx, Apache, Prometheus, Grafana |
 | **CI/CD & Version Control** | Git, GitHub, GitHub Actions, Jenkins |
+| **Mobile** | Flutter, Android |
 
 ## 💼 Professional Experience
 
