@@ -46,9 +46,10 @@ I am a **Full Stack Developer** specializing in architecting scalable multi-tena
 ## 🚀 Featured Projects
 
 - **OnKalendar:** Multi-tenant SaaS booking network (Laravel, React.js, MySQL) featuring isolated tenant storefronts, conflict-free booking logic, and an integrated POS terminal with cross-branch inventory sync.
-- **Xappee:** Operational recruitment and candidate tracking platform (Next.js, Node.js, TypeScript, Flutter) equipped with a real-time candidate chat engine via Socket.io.
-- **Mossodor:** Centralized multi-tenant e-commerce management panel (Next.js, Node.js, MongoDB) syncing automated WooCommerce instances and real-time inventory thresholds.
+- **Terraform ECS Fargate Platform:** Serverless cloud infrastructure provisioned on AWS using Terraform (IaC), architecting secure VPC networking, Application Load Balancers, and auto-scaling ECS Fargate clusters for zero-downtime microservices.
+- **SkyFlow Kubernetes Cluster:** Zero-touch cluster provisioning and server hardening automated with Ansible, deploying containerized services via Docker with Flannel CNI networking, dynamic local storage classes, and RBAC isolation.
 - **Enterprise ERP Platform & Companion App:** Full-stack ERP system (Laravel, MySQL) paired with a native Flutter retail app, powering POS transactions, accounting engines, and WooCommerce stock synchronization.
+- **Mossodor:** Centralized multi-tenant e-commerce management panel (Next.js, Node.js, MongoDB) syncing automated WooCommerce instances and real-time inventory thresholds.
 - **Elmalek Market:** Double-sided food delivery platform featuring a consumer Flutter app and Laravel backend with a custom state machine for live order tracking and automated dispatching.
 
 ## 🎓 Education & Specialized Training
