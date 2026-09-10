@@ -68,5 +68,3 @@ I am a **Full Stack Developer** specializing in architecting scalable multi-tena
 
 ---
 <p align="center"><i>"Bridging clean application architecture with scalable cloud infrastructure."</i></p>
-
-```
