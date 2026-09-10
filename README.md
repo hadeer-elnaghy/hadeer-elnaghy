@@ -1,4 +1,3 @@
-```markdown
 # Hadeer Elnaghy 🚀
 ### Full Stack Developer & Cloud/DevOps Practitioner
 
